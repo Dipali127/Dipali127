@@ -42,9 +42,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/f_auto,q_auto/v1641940483/brand/Cloudinary_logo_for_white_bg.svg" alt="cloudinary" width="80" height="40"/>
-  </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
