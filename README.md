@@ -73,7 +73,7 @@
 
 - 🛒 [**MediCart – Online Medicine Store (RESTful API)**](https://github.com/Dipali127/MediCart_RESTful_API) — E-commerce backend with cart & Razorpay integration  
 - 🔗 [**URL Shortener**](https://github.com/Dipali127/URL_shortener) — Built with Node.js, Redis, MongoDB  
-- 💼 [**Interview Preparation Website (RESTful API)**](https://github.com/Dipali127/internship-restfull-api) — Manage Q&A for interview practice
+- 💼 [**Internship Portal (RESTful API)**](https://github.com/Dipali127/internship-restfull-api) — Companies can post internships and students can apply to active opportunities
 
 ---
 
