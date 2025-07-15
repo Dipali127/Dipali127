@@ -43,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1687297110/brand/Cloudinary_Logomark_Blue.svg" alt="cloudinary" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudinary/cloudinary-original.svg" alt="cloudinary" width="40" height="40"/>
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
